@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a MEVN project.
 - 🌱 I’m learning web development
 - 🥅 2020 Goals: Explore the web
-- ⚡ Fun fact: Nothing to say 😄
+- ⚡ Fun fact: I'm Learning 😄
 
 ### Connect with me
 
